@@ -22,6 +22,7 @@
   <preference name="target-device" value="universal" />
   <preference name="fullscreen" value="true" />
   <preference name="android-installLocation" value="auto" />
+  <preference name="loadUrlTimeoutValue" value="700000" />
   <preference name="permissions" value="INTERNET" />
   
   <!--Plugins -->
